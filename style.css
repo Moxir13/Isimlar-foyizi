@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: rgb(193, 193, 193);
+}
+
+.box {
+    width: 450px;
+    padding: 10px;
+    background-color: white;
+    text-align: center;
+    border-radius: 20px;
+    margin: 100px auto;
+}
+
+.ol img {
+    width: 20px;
+    height: 10px;
+}
+
+ol {
+    text-align: left;
+    padding: 15px;
+}
+.h2,h3{
+    margin: 15px;
+}
+input{
+    width: 300px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+    outline: none;
+}
+.btn{
+    padding: 10px 20px;
+    border-radius: 8px;
+    background-color: green;
+    color: white;
+}
+ol li{
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
